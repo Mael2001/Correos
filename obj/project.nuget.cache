@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "XZHRnHBI0CnO3xPCJkYzTHtoQ7vq+7v8nJOm7dskJlo5/llc3H6VCmA/R8iJYsE8csM0GqFK0mdBpWedWSuI7g==",
+  "dgSpecHash": "yecU+2dlkrK/o/Y2VpPto9MvB1KuDityKqAAVAhXA7ycUdnqjPosE28S9zQEGjMeHoZdJldvTFobCBeoQmp5PA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Marzo\\source\\repos\\Correos\\Correos.csproj",
+  "projectFilePath": "C:\\Users\\Johel\\Documents\\Correos Masivos\\Correos\\Correos.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Marzo\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
-    "C:\\Users\\Marzo\\.nuget\\packages\\system.data.odbc\\5.0.0\\system.data.odbc.5.0.0.nupkg.sha512"
+    "C:\\Users\\Johel\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Johel\\.nuget\\packages\\system.data.odbc\\5.0.0\\system.data.odbc.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
